@@ -89,9 +89,7 @@ Included in this repository:
 
 ## ✅ Badge Earned
 
-![IBM Badge](https://images.credly.com/size/340x340/images/1e6eac2f-94f4-49ae-bc50-eaa1d67e0463/Data_Analysis_with_Python.png)
-
-This project contributed to earning the [IBM Data Analysis with Python](https://www.credly.com/org/ibm/badge/data-analysis-with-python) digital badge.
+This project contributed to earning the [[IBM Data Analysis with Python](https://www.credly.com/org/ibm/badge/data-analysis-with-python) ](https://www.credly.com/badges/b58b7531-5176-4f90-a64a-604d8bf12504/linked_in_profile)digital badge.
 
 ---
 
